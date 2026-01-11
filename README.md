@@ -36,7 +36,7 @@
 
 > *"Kill, die, learn, repeat."*
 
-- 🎓 Estudante de tecnologia
+- 🎓 Graduando em Enganharia da Computação
 - 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
 - 🔐 Estudando **Cibersegurança, CTFs e segurança ofensiva/defensiva**
 - 🐧 Usuário Linux (**Parrot OS**)
