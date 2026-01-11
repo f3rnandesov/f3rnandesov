@@ -5,7 +5,7 @@
   <h1 align="center">👋 Iai, me chamo Pedro!</h1>
 
   <p align="center">
-    💻 Dev | 🔐 Segurança | 🤖 IA
+    💻 Dev | 🔐 Cybersecurity | 🤖 AI
   </p>
 
   <a href="https://github.com/f3rnandesov">
@@ -18,7 +18,6 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -36,9 +35,9 @@
 
 > *"Kill, die, learn, repeat."*
 
-- 🎓 Graduando em Enganharia da Computação
+- 🎓 Graduando em Engenharia da Computação
 - 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
-- 🔐 Estudando **Cibersegurança, CTFs e segurança ofensiva/defensiva**
+- 🔐 Estudando **Cibersegurança, CTFs, criptografia aplicada e segurança ofensiva/defensiva**
 - 🐧 Usuário Linux (**Parrot OS**)
 - 🛠️ Foco em projetos práticos e aprendizado contínuo
 
@@ -56,14 +55,19 @@ Sou um entusiasta de segurança ofensiva e praticante ativo de CTFs. Meus estudo
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔑 Criptografia
 
-<div align="center">
+Interesse e estudos focados em **criptografia aplicada à segurança e sistemas computacionais**, incluindo:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rnandesov&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandesov&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
-
-</div>
+- 🔒 **Criptografia Simétrica:** AES, ChaCha20
+- 🔐 **Criptografia Assimétrica:** RSA, ECC
+- 🧾 **Funções Hash:** SHA-256, SHA-3, Bcrypt
+- 🔑 **Gerenciamento de Chaves:** Key exchange, armazenamento seguro
+- 🛡️ **Aplicações Práticas:**
+  - Proteção de dados sensíveis
+  - Autenticação e integridade
+  - Comunicação segura em redes
+  - Apoio à segurança em IoT e sistemas distribuídos
 
 ---
 
