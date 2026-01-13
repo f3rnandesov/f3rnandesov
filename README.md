@@ -1,10 +1,10 @@
 <div align="center">
   <br>
 
-  <h1 align="center">👋 Olá, eu sou o Pedro!</h1>
+  <h1 align="center">👋 Iai, me chamo Pedro!</h1>
 
   <p align="center">
-    💻 Desenvolvedor | 🔐 Cibersegurança | 🤖 Inteligência Artificial
+    💻 Dev | 🔐 Cybersecurity | 🤖 AI
   </p>
 
   <a href="https://github.com/f3rnandesov">
@@ -21,7 +21,7 @@
 - 🎓 Graduando em **Engenharia da Computação**
 - 🔐 Foco em **Cibersegurança ofensiva e defensiva**
 - 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
-- 🧪 Estudo contínuo de **CTFs, criptografia aplicada e segurança de redes**
+- 🧪 Estudo contínuo de **CTFs, criptografia aplicada, Redes Neurais Artificiais e Segurança da Informação**
 - 🐧 Usuário Linux (**Parrot OS**)
 - 🛠️ Perfil voltado a **projetos práticos, pesquisa e aprendizado contínuo**
 
