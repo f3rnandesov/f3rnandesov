@@ -1,17 +1,29 @@
 <div align="center">
-  
   <br>
 
-  <h1 align="center">👋 Iai, me chamo Pedro!</h1>
+  <h1 align="center">👋 Olá, eu sou o Pedro!</h1>
 
   <p align="center">
-    💻 Dev | 🔐 Cybersecurity | 🤖 AI
+    💻 Desenvolvedor | 🔐 Cibersegurança | 🤖 Inteligência Artificial
   </p>
 
   <a href="https://github.com/f3rnandesov">
     <img src="https://komarev.com/ghpvc/?username=f3rnandesov&style=flat-square&color=blueviolet" alt="Profile Views">
   </a>
 </div>
+
+---
+
+## 🧠 Sobre mim
+
+> *"Kill, die, learn, repeat."*
+
+- 🎓 Graduando em **Engenharia da Computação**
+- 🔐 Foco em **Cibersegurança ofensiva e defensiva**
+- 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
+- 🧪 Estudo contínuo de **CTFs, criptografia aplicada e segurança de redes**
+- 🐧 Usuário Linux (**Parrot OS**)
+- 🛠️ Perfil voltado a **projetos práticos, pesquisa e aprendizado contínuo**
 
 ---
 
@@ -31,43 +43,48 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🔐 Segurança & CTFs
 
-> *"Kill, die, learn, repeat."*
+Entusiasta de **segurança ofensiva** e praticante ativo de **CTFs**, com foco no entendimento profundo de ataques e defesas.
 
-- 🎓 Graduando em Engenharia da Computação
-- 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
-- 🔐 Estudando **Cibersegurança, CTFs, criptografia aplicada e segurança ofensiva/defensiva**
-- 🐧 Usuário Linux (**Parrot OS**)
-- 🛠️ Foco em projetos práticos e aprendizado contínuo
+**Principais áreas de estudo e prática:**
+
+- 🕷️ **Hack The Box:** exploração, hardening e aprendizado prático
+- 🔍 **Enumeração:** coleta avançada de informações
+- 💥 **Exploração de vulnerabilidades**
+- ⬆️ **Privilege Escalation:** Linux & Windows
+- 🐍 **Automação em Segurança:** scripts em Python
+- 🌐 **Análise de redes e serviços**
 
 ---
 
-## 🔐 Segurança & CTF
+## 🛡️ Segurança Defensiva (SOC / Cybersecurity Analyst)
 
-Sou um entusiasta de segurança ofensiva e praticante ativo de CTFs. Meus estudos atuais incluem:
+Experiência acadêmica e prática em **segurança defensiva**, com foco em detecção, análise e resposta a incidentes:
 
-- 🕷️ **Hack The Box:** Prática constante de invasão e patch
-- 🔍 **Enumeração:** Coleta avançada de informações
-- 💥 **Exploração:** Identificação e uso de vulnerabilidades
-- ⬆️ **Privilege Escalation:** Técnicas para elevação de privilégio em Linux & Windows
-- 🐍 **Automação:** Criação de scripts em Python para segurança
+- 📊 Monitoramento de tráfego e eventos de segurança
+- 🚨 Análise de alertas e comportamento anômalo
+- 🧬 Identificação de **Indicadores de Comprometimento (IoCs)**
+- 🌐 Análise de tráfego malicioso vs tráfego legítimo
+- 🔎 Investigação de incidentes simulados
+- 🔗 Correlação de eventos, logs e dados de rede
+- 🧯 Apoio a processos de resposta a incidentes
 
 ---
 
 ## 🔑 Criptografia
 
-Interesse e estudos focados em **criptografia aplicada à segurança e sistemas computacionais**, incluindo:
+Estudos focados em **criptografia aplicada à segurança da informação e sistemas computacionais**:
 
 - 🔒 **Criptografia Simétrica:** AES, ChaCha20
 - 🔐 **Criptografia Assimétrica:** RSA, ECC
 - 🧾 **Funções Hash:** SHA-256, SHA-3, Bcrypt
-- 🔑 **Gerenciamento de Chaves:** Key exchange, armazenamento seguro
-- 🛡️ **Aplicações Práticas:**
+- 🔑 **Gerenciamento de Chaves:** key exchange e armazenamento seguro
+- 🛡️ **Aplicações práticas:**
   - Proteção de dados sensíveis
   - Autenticação e integridade
   - Comunicação segura em redes
-  - Apoio à segurança em IoT e sistemas distribuídos
+  - Segurança aplicada a **IoT** e **sistemas distribuídos**
 
 ---
 
