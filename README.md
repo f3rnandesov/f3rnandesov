@@ -22,7 +22,6 @@
 - 🔐 Foco em **Cibersegurança ofensiva e defensiva**
 - 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
 - 🧪 Estudo contínuo de **CTFs, criptografia aplicada, Redes Neurais Artificiais e Segurança da Informação**
-- 🐧 Usuário Linux (**Parrot OS**)
 - 🛠️ Perfil voltado a **projetos práticos, pesquisa e aprendizado contínuo**
 
 ---
@@ -58,7 +57,7 @@ Entusiasta de **segurança ofensiva** e praticante ativo de **CTFs**, com foco n
 
 ---
 
-## 🛡️ Segurança Defensiva (SOC / Cybersecurity Analyst)
+##  Segurança Defensiva (SOC / Cybersecurity Analyst)
 
 Experiência acadêmica e prática em **segurança defensiva**, com foco em detecção, análise e resposta a incidentes:
 
@@ -72,7 +71,7 @@ Experiência acadêmica e prática em **segurança defensiva**, com foco em dete
 
 ---
 
-## 🔑 Criptografia
+##  Criptografia
 
 Estudos focados em **criptografia aplicada à segurança da informação e sistemas computacionais**:
 
