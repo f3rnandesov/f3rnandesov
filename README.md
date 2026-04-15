@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 > *"Kill, die, learn, repeat."*
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -43,18 +43,18 @@
 
 ---
 
-## 🔐 Segurança & CTFs
+##  Segurança & CTFs
 
 Entusiasta de **segurança ofensiva** e praticante ativo de **CTFs**, com foco no entendimento profundo de ataques e defesas.
 
 **Principais áreas de estudo e prática:**
 
-- 🕷️ **Hack The Box:** exploração, hardening e aprendizado prático
-- 🔍 **Enumeração:** coleta avançada de informações
-- 💥 **Exploração de vulnerabilidades**
-- ⬆️ **Privilege Escalation:** Linux & Windows
-- 🐍 **Automação em Segurança:** scripts em Python
-- 🌐 **Análise de redes e serviços**
+-  **Hack The Box:** exploração, hardening e aprendizado prático
+-  **Enumeração:** coleta avançada de informações
+-  **Exploração de vulnerabilidades**
+-  **Privilege Escalation:** Linux & Windows
+-  **Automação em Segurança:** scripts em Python
+-  **Análise de redes e serviços**
 
 ---
 
@@ -62,13 +62,13 @@ Entusiasta de **segurança ofensiva** e praticante ativo de **CTFs**, com foco n
 
 Experiência acadêmica e prática em **segurança defensiva**, com foco em detecção, análise e resposta a incidentes:
 
-- 📊 Monitoramento de tráfego e eventos de segurança
-- 🚨 Análise de alertas e comportamento anômalo
-- 🧬 Identificação de **Indicadores de Comprometimento (IoCs)**
-- 🌐 Análise de tráfego malicioso vs tráfego legítimo
-- 🔎 Investigação de incidentes simulados
-- 🔗 Correlação de eventos, logs e dados de rede
-- 🧯 Apoio a processos de resposta a incidentes
+-  Monitoramento de tráfego e eventos de segurança
+-  Análise de alertas e comportamento anômalo
+-  Identificação de **Indicadores de Comprometimento (IoCs)**
+-  Análise de tráfego malicioso vs tráfego legítimo
+-  Investigação de incidentes simulados
+-  Correlação de eventos, logs e dados de rede
+-  Apoio a processos de resposta a incidentes
 
 ---
 
@@ -76,11 +76,11 @@ Experiência acadêmica e prática em **segurança defensiva**, com foco em dete
 
 Estudos focados em **criptografia aplicada à segurança da informação e sistemas computacionais**:
 
-- 🔒 **Criptografia Simétrica:** AES, ChaCha20
-- 🔐 **Criptografia Assimétrica:** RSA, ECC
-- 🧾 **Funções Hash:** SHA-256, SHA-3, Bcrypt
-- 🔑 **Gerenciamento de Chaves:** key exchange e armazenamento seguro
-- 🛡️ **Aplicações práticas:**
+-  **Criptografia Simétrica:** AES, ChaCha20
+-  **Criptografia Assimétrica:** RSA, ECC
+-  **Funções Hash:** SHA-256, SHA-3, Bcrypt
+-  **Gerenciamento de Chaves:** key exchange e armazenamento seguro
+-  **Aplicações práticas:**
   - Proteção de dados sensíveis
   - Autenticação e integridade
   - Comunicação segura em redes
