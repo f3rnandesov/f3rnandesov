@@ -1,93 +1,94 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=150&section=header&text=Pedro%20Fernandes&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+
   <br>
 
-  <h1 align="center">👋 Iai, me chamo Pedro!</h1>
-
   <p align="center">
-    💻 Dev | 🔐 Cybersecurity | 🤖 AI
+    <a href="https://github.com/f3rnandesov">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B89CC&center=true&vCenter=true&width=500&lines=Computer+Engineering;Offensive+%26+Defensive+Security;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+    </a>
   </p>
 
-  <a href="https://github.com/f3rnandesov">
-    <img src="https://komarev.com/ghpvc/?username=f3rnandesov&style=flat-square&color=blueviolet" alt="Profile Views">
-  </a>
+  <p align="center">
+    <a href="https://github.com/f3rnandesov">
+      <img src="https://komarev.com/ghpvc/?username=f3rnandesov&style=flat-square&color=8B89CC" alt="Profile Views">
+    </a>
+  </p>
 </div>
 
 ---
 
-##  Sobre mim
+## 👨‍💻 Sobre mim
 
 > *"Kill, die, learn, repeat."*
 
-- 🎓 Graduando em **Engenharia da Computação**
-- 🔐 Foco em **Cibersegurança ofensiva e defensiva**
-- 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
-- 🧪 Estudo contínuo de **CTFs, criptografia aplicada, Redes Neurais Artificiais e Segurança da Informação**
-- 🛠️ Perfil voltado a **projetos práticos, pesquisa e aprendizado contínuo**
+Graduando em **Engenharia da Computação** pela UEMA, sou apaixonado por desvendar como os sistemas funcionam por baixo dos panos — e, consequentemente, como protegê-los ou explorá-los. Meu perfil é guiado por projetos práticos, pesquisa contínua e a busca por integrar segurança, infraestrutura e inteligência artificial.
+
+- 🔐 **Cibersegurança:** Atuação e estudo contínuo em segurança ofensiva (CTFs, Privilege Escalation) e defensiva (Análise de SOC, IoCs, monitoramento de tráfego).
+- 🌐 **Redes & Infraestrutura:** Foco em arquitetura de redes, protocolos (TCP/IP), roteamento (padrões Cisco) e administração avançada de ambientes Linux (usuário ativo de Parrot OS).
+- 🤖 **Inteligência Artificial:** Pesquisa e aplicação em Redes Neurais Artificiais (CNNs), Visão Computacional e Deep Learning aplicados a cenários de monitoramento do mundo real.
+- ⚙️ **Sistemas Embarcados:** Curiosidade ativa no desenvolvimento de hardware, IoT e prototipagem com microcontroladores.
 
 ---
 
-##  Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
+### Linguagens & OS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrot-security&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Redes, Segurança & Criptografia
 ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-🔒-2F3337?style=for-the-badge)
+
+### AI, Hardware & Dev Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-##  Segurança & CTFs
+## 🎯 Áreas de Atuação & Estudos
 
-Entusiasta de **segurança ofensiva** e praticante ativo de **CTFs**, com foco no entendimento profundo de ataques e defesas.
+<details>
+  <summary><b>🔥 Segurança Ofensiva & CTFs</b></summary>
+  <ul>
+    <li><b>Plataformas:</b> Resolução ativa de máquinas no Hack The Box e simulações práticas.</li>
+    <li><b>Técnicas:</b> Enumeração avançada de serviços, exploração de vulnerabilidades e Privilege Escalation (Linux/Windows).</li>
+    <li><b>Automação:</b> Desenvolvimento de scripts customizados em Python para otimização de ataques e coleta de dados.</li>
+  </ul>
+</details>
 
-**Principais áreas de estudo e prática:**
+<details>
+  <summary><b>🛡️ Segurança Defensiva (SOC / Blue Team)</b></summary>
+  <ul>
+    <li><b>Monitoramento:</b> Análise de tráfego de rede e distinção rigorosa entre comportamento legítimo e anômalo.</li>
+    <li><b>Investigação:</b> Identificação de Indicadores de Comprometimento (IoCs) e correlação de logs/eventos de segurança.</li>
+    <li><b>Resposta:</b> Apoio tático e prático a processos de simulação e resposta a incidentes.</li>
+  </ul>
+</details>
 
--  **Hack The Box:** exploração, hardening e aprendizado prático
--  **Enumeração:** coleta avançada de informações
--  **Exploração de vulnerabilidades**
--  **Privilege Escalation:** Linux & Windows
--  **Automação em Segurança:** scripts em Python
--  **Análise de redes e serviços**
-
----
-
-##  Segurança Defensiva (SOC / Cybersecurity Analyst)
-
-Experiência acadêmica e prática em **segurança defensiva**, com foco em detecção, análise e resposta a incidentes:
-
--  Monitoramento de tráfego e eventos de segurança
--  Análise de alertas e comportamento anômalo
--  Identificação de **Indicadores de Comprometimento (IoCs)**
--  Análise de tráfego malicioso vs tráfego legítimo
--  Investigação de incidentes simulados
--  Correlação de eventos, logs e dados de rede
--  Apoio a processos de resposta a incidentes
-
----
-
-##  Criptografia
-
-Estudos focados em **criptografia aplicada à segurança da informação e sistemas computacionais**:
-
--  **Criptografia Simétrica:** AES, ChaCha20
--  **Criptografia Assimétrica:** RSA, ECC
--  **Funções Hash:** SHA-256, SHA-3, Bcrypt
--  **Gerenciamento de Chaves:** key exchange e armazenamento seguro
--  **Aplicações práticas:**
-  - Proteção de dados sensíveis
-  - Autenticação e integridade
-  - Comunicação segura em redes
-  - Segurança aplicada a **IoT** e **sistemas distribuídos**
+<details>
+  <summary><b>🗝️ Criptografia Aplicada</b></summary>
+  <ul>
+    <li><b>Algoritmos:</b> Estudo profundo de arquiteturas de criptografia simétrica (AES, ChaCha20) e assimétrica (RSA, ECC).</li>
+    <li><b>Integridade:</b> Aplicação de Funções Hash (SHA-256, SHA-3, Bcrypt).</li>
+    <li><b>Infraestrutura:</b> Gerenciamento seguro de chaves (Key Exchange) focado em proteger ambientes IoT e sistemas distribuídos.</li>
+  </ul>
+</details>
 
 ---
 
-## 📫 Contato
+## 📫 Conecte-se comigo
 
 <div align="center">
 
