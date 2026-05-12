@@ -1,158 +1,47 @@
 <div align="center">
 
-<br>
+# Iai? Me chamo Pedro!
+**Engenharia da Computação | Cybersecurity | Artificial Intelligence**
 
-
-<h1 align="center">👋 Iai, me chamo Pedro!</h1>
-
-
-<p align="center">
-
-💻 Dev | 🔐 Cybersecurity | 🤖 AI
-
-</p>
-
-
-<a href="https://github.com/f3rnandesov">
-
-<img src="https://komarev.com/ghpvc/?username=f3rnandesov&style=flat-square&color=blueviolet" alt="Profile Views">
-
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=f3rnandesov&style=flat-square&color=blueviolet)](https://github.com/f3rnandesov)
 
 </div>
 
+---
+
+###  Formação Acadêmica & Foco
+Sou graduando em **Engenharia da Computação**, onde utilizo a base de hardware e sistemas de baixo nível para aprofundar meus estudos em segurança e dados.
+
+*   **Cybersecurity:** Estudante em infraestrutura e redes, focado em **CTFs** (Red Team) e **Hardening** de sistemas (Blue Team).
+*   **Artificial Intelligence:** Desenvolvimento e treinamento de **modelos de Deep Learning**, com foco em Visão Computacional, Redes Neurais Convolucionais, Transformers e RNN.
+*   **Sistemas:** Domínio avançado de ecossistemas **Linux** e administração de redes.
 
 ---
 
+### Tech Stack & Skills
 
-## Sobre mim
-
-
-> *"Kill, die, learn, repeat."*
-
-
--> Graduando em **Engenharia da Computação**
-
--> Foco em **Cibersegurança ofensiva e defensiva**
-
--> Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
-
--> Estudo contínuo de **CTFs, criptografia aplicada, Redes Neurais Artificiais e Segurança da Informação**
-
--> Perfil voltado a **projetos práticos, pesquisa e aprendizado contínuo**
-
+| Domínio | Ferramentas & Tecnologias |
+| :--- | :--- |
+| **Security** | HackTheBox, Criptografia (AES/RSA), Pentesting, SOC & IoC |
+| **AI / Data** | Criação de Modelos, Redes Neurais, CNN, Python, NSL-KDD Dataset |
+| **Infrastructure** | Linux (Kernel, Drivers), Redes de Computadores, Cisco IOS, Shell Script |
+| **Engineering** | C, Go, Python, Microcontroladores (ESP32, Digispark), Eletrônica Digital,  |
 
 ---
 
+### No que estou trabalhando agora?
+- **CTF & Labs:** Praticando exploração de vulnerabilidades e pós-exploração em ambientes Linux/Windows.
+- **AI Dev:** Criando modelos para detecção de anomalias em tráfego de rede e processamento de dados tabulares em imagens para CNNs.
+- **Networking:** Simulações complexas de roteamento e defesa de perímetros.
 
-## Tecnologias & Ferramentas
+---
 
+### 📫 Conecte-se comigo
 
 <div align="center">
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrot-security&logoColor=black)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-
-</div>
-
-
----
-
-
-Offensive Security & CTFs
-
-  Entusiasta de Red Teaming e praticante ativo de CTFs, focado em entender a anatomia de ataques para construir defesas resilientes.
-
-  -> Exploitation & Lab: Infiltração e exploração de vulnerabilidades .
-
-  -> Post-Exploitation: Escala de privilégios em sistemas Linux/Windows e técnicas de Hardening.
-  
-  -> Security Dev: Automação de Recon e criação de scripts ofensivos em Python/Go.
-  
-  -> Networking: Análise profunda de protocolos, tráfego de rede e enumeração de serviços.
-
-  -> Web & Crypto: Implementação de criptografia aplicada, .
-
-
-
----
-
-
-## Segurança Defensiva (SOC / Cybersecurity Analyst)
-
-
-Experiência acadêmica e prática em **segurança defensiva**, com foco em detecção, análise e resposta a incidentes:
-
-- Monitoramento de tráfego e eventos de segurança
-
-- Análise de alertas e comportamento anômalo
-
-- Identificação de **Indicadores de Comprometimento (IoCs)**
-
-- Análise de tráfego malicioso vs tráfego legítimo
-
-- Investigação de incidentes simulados
-
-- Correlação de eventos, logs e dados de rede
-
-- Apoio a processos de resposta a incidentes
-
-
----
-
-
-## Criptografia
-
-
-Estudos focados em **criptografia aplicada à segurança da informação e sistemas computacionais**:
-
-
-- **Criptografia Simétrica:** AES, ChaCha20
-
-- **Criptografia Assimétrica:** RSA, ECC
-
-- **Funções Hash:** SHA-256, SHA-3, Bcrypt
-
-- **Gerenciamento de Chaves:** key exchange e armazenamento seguro
-
-- **Aplicações práticas:**
-
-- Proteção de dados sensíveis
-
-- Autenticação e integridade
-
-- Comunicação segura em redes
-
-- Segurança aplicada a **IoT** e **sistemas distribuídos**
-
-
----
-
-
-## 📫 Contato
-
-
-<div align="center">
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandes-0330aa356)
-
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pdrofrnandes@proton.me)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rnandesov)
 
-
-</div> 
+</div>
