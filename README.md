@@ -18,8 +18,6 @@ Sou graduando em **Engenharia da Computação**, onde utilizo a base de hardware
 
 ---
 
-### Tech Stack & Skills
-
 | Domínio | Ferramentas & Tecnologias |
 | :--- | :--- |
 | **Security** | HackTheBox, Criptografia (AES/RSA), Pentesting, SOC & IoC |
