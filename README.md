@@ -29,7 +29,7 @@ Sou graduando em **Engenharia da Computação**, onde utilizo a base de hardware
 
 ---
 
-### 📫 Conecte-se
+### 📫 Contato
 
 
 <div align="center">
